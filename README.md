@@ -11,19 +11,19 @@ The only external package used is ```wikipediaapi``` so to run this script yours
 
 
 Current Features:
-	-Text Download
-	-Download all referenced other pages
-	-Download Disambiguations
-	-.Zip compression
-	-Every language available on wikipedia, the list of language codes 
+	- Text Download
+	- Download all referenced other pages
+	- Download Disambiguations
+	- .Zip compression
+	- Every language available on wikipedia, the list of language codes 
 		at the beginning of the program is just a suggestion list
 
 Coming:
-	-rar/zip archive download
-	-Factored downloads
-	-More f strings
-	-Flask webapp version for server deployments
-	-Eventually integration with ArgParse, and hopefully apt. I'd like to turn this into a very usable package
+	- rar/zip archive download
+	- Factored downloads
+	- More f strings
+	- Flask webapp version for server deployments
+	- Eventually integration with ArgParse, and hopefully apt. I'd like to turn this into a very usable package
 
 ### Known Bugs
 #### Currently, there is an issue with about 10% of pages downloading blank, no idea why yet but I'm quarantined so I'm sure I'll get to that
