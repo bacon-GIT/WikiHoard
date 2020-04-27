@@ -1,6 +1,8 @@
 # Wikihoard
 ## Life Manual Generator
 
+![Tutorial](/images/tut.gif)
+
 ### Windows Build
 Unzip the repository and run the executable in the dist/ folder
 
